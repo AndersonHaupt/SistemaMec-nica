@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/12 15:33:21.000.508,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2016/10/17 14:06:59.000.457,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/04/29 10:58:08.000.748,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/06/12 07:59:01.000.411,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/06/17 07:44:40.000.188,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/08/29 11:05:49.000.759,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/08/29 11:08:31.000.697,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/09/09 07:51:59.000.743,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/09/09 15:36:01.000.614,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/09/21 10:54:04.000.678,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/09/21 11:07:36.000.357,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/09/23 09:30:54.000.988,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/11/27 07:59:07.000.576,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2017/12/16 22:14:12.000.257,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2018/02/19 17:04:39.000.740,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2018/02/19 17:05:34.000.437,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.pas=C:\Users\Anderson\Desktop\SisteMecanica\Umenu.pas</Transaction>
+    <Transaction>2018/02/19 17:05:34.000.437,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit7.dfm=C:\Users\Anderson\Desktop\SisteMecanica\Umenu.dfm</Transaction>
+    <Transaction>2018/02/19 17:06:07.000.253,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Project7.dproj=C:\Users\Anderson\Desktop\SisteMecanica\Mecanica.dproj</Transaction>
+    <Transaction>2018/02/19 17:19:35.000.673,=C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas</Transaction>
+    <Transaction>2018/02/19 17:20:36.000.821,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas=C:\Users\Anderson\Desktop\SisteMecanica\Uacessar.pas</Transaction>
+    <Transaction>2018/02/19 17:20:36.000.821,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.dfm=C:\Users\Anderson\Desktop\SisteMecanica\Uacessar.dfm</Transaction>
+    <Transaction>2018/02/19 17:36:14.000.446,=C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas</Transaction>
+    <Transaction>2018/02/19 17:47:21.000.041,=C:\Users\Anderson\Desktop\SisteMecanica\Unit2.pas</Transaction>
+    <Transaction>2018/02/19 17:47:32.000.025,C:\Users\Anderson\Desktop\SisteMecanica\Unit2.dfm=C:\Users\Anderson\Desktop\SisteMecanica\UDM.dfm</Transaction>
+    <Transaction>2018/02/19 17:47:32.000.025,C:\Users\Anderson\Desktop\SisteMecanica\Unit2.pas=C:\Users\Anderson\Desktop\SisteMecanica\UDM.pas</Transaction>
+    <Transaction>2018/02/19 17:47:52.000.424,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas=C:\Users\Anderson\Desktop\SisteMecanica\Uclientes.pas</Transaction>
+    <Transaction>2018/02/19 17:47:52.000.424,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.dfm=C:\Users\Anderson\Desktop\SisteMecanica\Uclientes.dfm</Transaction>
+    <Transaction>2018/02/20 07:28:58.000.769,=C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas</Transaction>
+    <Transaction>2018/02/20 07:30:20.000.280,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.dfm=C:\Users\Anderson\Desktop\SisteMecanica\Uveiculos.dfm</Transaction>
+    <Transaction>2018/02/20 07:30:20.000.280,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas=C:\Users\Anderson\Desktop\SisteMecanica\Uveiculos.pas</Transaction>
+    <Transaction>2018/02/21 07:54:56.000.213,=C:\Users\Anderson\Desktop\SisteMecanica\uEXEMPLO.pas</Transaction>
+    <Transaction>2018/02/21 08:01:26.000.716,C:\Users\Anderson\Desktop\SisteMecanica\uEXEMPLO.pas=C:\Users\Anderson\Desktop\SisteMecanica\Uprodutos.pas</Transaction>
+    <Transaction>2018/02/21 08:01:26.000.716,C:\Users\Anderson\Desktop\SisteMecanica\uEXEMPLO.dfm=C:\Users\Anderson\Desktop\SisteMecanica\Uprodutos.dfm</Transaction>
+    <Transaction>2018/02/21 17:51:28.000.205,=C:\Users\Anderson\Desktop\SisteMecanica\uEXEMPLO.pas</Transaction>
+    <Transaction>2018/02/21 17:51:51.000.336,C:\Users\Anderson\Desktop\SisteMecanica\UOS.pas=C:\Users\Anderson\Desktop\SisteMecanica\uEXEMPLO.pas</Transaction>
+    <Transaction>2018/02/21 17:51:51.000.336,C:\Users\Anderson\Desktop\SisteMecanica\UOS.dfm=C:\Users\Anderson\Desktop\SisteMecanica\uEXEMPLO.dfm</Transaction>
+    <Transaction>2018/02/22 09:14:54.000.969,=C:\Users\Anderson\Desktop\SisteMecanica\uPesquisa.pas</Transaction>
+    <Transaction>2018/02/22 10:18:48.000.519,=C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas</Transaction>
+    <Transaction>2018/02/22 10:21:24.000.205,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.pas=C:\Users\Anderson\Desktop\SisteMecanica\UAdcprodutos.pas</Transaction>
+    <Transaction>2018/02/22 10:21:24.000.205,C:\Users\Anderson\Desktop\SisteMecanica\Unit1.dfm=C:\Users\Anderson\Desktop\SisteMecanica\UAdcprodutos.dfm</Transaction>
+    <Transaction>2018/02/23 13:52:13.000.535,=C:\Users\Anderson\Desktop\SisteMecanica\uadcexemplo.pas</Transaction>
+    <Transaction>2018/02/23 13:57:25.000.487,C:\Users\Anderson\Desktop\SisteMecanica\Uadcservico.pas=C:\Users\Anderson\Desktop\SisteMecanica\uadcexemplo.pas</Transaction>
+    <Transaction>2018/02/23 13:57:25.000.487,C:\Users\Anderson\Desktop\SisteMecanica\Uadcservico.dfm=C:\Users\Anderson\Desktop\SisteMecanica\uadcexemplo.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
